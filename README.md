@@ -1,6 +1,7 @@
 # hi! I'm AmazinAxel and...
 - I like to code things!
+- I am more of a web based developer
+- I have a good knowledge of HTML, CSS and some other languages
 - I want to help make the world better by programming :D
-- I have a website at https://amazinaxel.com
-- You can contact me by email at axel@amazinaxel.com
-- If you want, you can also contact me in the discussion tab in this repo! https://github.com/AmazinAxel/AmazinAxel
+- I blog at my website at https://amazinaxel.com
+- You can contact me through the [discussions tab in this repository](https://github.com/AmazinAxel/AmazinAxel)
