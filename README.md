@@ -7,3 +7,4 @@ Hi! I'm AmazinAxel and...
 - Sometimes I make random [YouTube videos on my channel](https://www.youtube.com/channel/UC2rR60IXOH_ExzPAYS1CPcA)
 - I have multiple accounts on different things like on [Twitch](https://www.twitch.tv/amazinaxel), [Roblox](https://www.roblox.com/users/1362593157/profile) and [more!](https://amazinaxel.com/about-me.html)
 - I am interested in websites, video games, and programming!
+- I am based in Bellingham, WA (in-between Seattle, WA and Vancouver, BC)
