@@ -7,5 +7,4 @@ Hi! I'm AmazinAxel and...
 - I have a personal blog on my website at https://amazinaxel.com
 - I make random [YouTube videos on my channel](https://www.youtube.com/channel/UC2rR60IXOH_ExzPAYS1CPcA)
 - You can check out my social profiles [here](https://amazinaxel.com/about-me.html)
-- I am interested in websites, video games, servers, and computers!
-- I am based near Seattle, Washington
+- I am interested in websites, video games, servers, and computers
