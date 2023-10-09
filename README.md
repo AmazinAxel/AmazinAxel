@@ -1,5 +1,5 @@
 Hi! I'm AmazinAxel and...
-- I'm just another developer on the Internet.
+- I'm just another developer on the Internet...
 - I specialize in game development & web development.
 - I have a good knowledge of PHP & JavaScript, along with other specialized languagaes.
 - I am a professional Minecraft server developer & maintainer.
