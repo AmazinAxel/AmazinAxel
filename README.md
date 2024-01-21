@@ -1,7 +1,9 @@
-Hi! I'm AmazinAxel and...
-- I'm just another developer on the Internet...
-- I specialize in game development & web development.
-- I have a good knowledge of PHP & JavaScript, along with other specialized languagaes.
-- I am a professional Minecraft server developer & maintainer.
-- I have a personal blogging site at 🌐 https://alecshome.com.
-- [View my social profiles here.](https://amazinaxel.com/about-me.html)
+Hey! I'm AmazinAxel and...
+- I'm proficient in both game development and web development with years of experience. 
+- I'm familiar with PHP & JavaScript and often use many other specialized languages.
+- I'm always experimenting with new languages, frameworks, and toolkits.
+- I'm a professional Minecraft server administrator, developer, and maintainer.
+- I enjoy tinkering with devices and revitalizing old technology with new purposes.
+- Average Linux (NixOS) and Neovim enjoyer
+- I have a personal blogging site at 🌐 <https://alecshome.com>.
+- [Learn more about me here.](https://amazinaxel.com/about-me.html)
