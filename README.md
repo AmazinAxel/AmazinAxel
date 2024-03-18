@@ -1,8 +1,11 @@
-Hey! I'm AmazinAxel and...
-- I'm proficient in both game development and web development with years of experience and expertise. 
-- I'm familiar with PHP & JavaScript and often use many other specialized languages and frameworks.
-- I'm always experimenting with new languages, frameworks, toolkits, and libraries.
-- I'm a professional Minecraft server administrator, developer, and maintainer.
-- average NixOS and Neovim enjoyer
-- My personal site at 🌐 <https://alecshome.com>.
-- [Learn more about me here.](https://amazinaxel.com/about-me.html)
+Hey! I'm `AmazinAxel` and...
+- I'm a game developer and web developer with experience and expertise
+- I'm familiar with PHP & JS/TS and often use many other specialized languages and frameworks
+- I'm always experimenting with new languages, frameworks, toolkits, and libraries
+- I have a passion for developing and administrating Minecraft servers
+- My toolkit consists of:
+  - NixOS
+  - Neovim
+  - Svelte
+  - IntelliJ
+- Check out my site at 🌐 <https://amazinaxel.com>
