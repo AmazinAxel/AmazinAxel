@@ -4,8 +4,7 @@ Hey! I'm `AmazinAxel` and...
 - I'm always experimenting with new languages, frameworks, toolkits, and libraries
 - I have a passion for developing and administrating Minecraft servers
 - My toolkit consists of:
-  - NixOS
-  - Neovim
-  - Svelte
-  - IntelliJ
+  - NixOS + Neovim
+  - Svelte + TypeScript
+  - IntelliJ + Gradle
 - Check out my site at 🌐 <https://amazinaxel.com>
